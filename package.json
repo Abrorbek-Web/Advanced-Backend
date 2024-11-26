@@ -4,7 +4,8 @@
   "description": "Node.js, Express.js lessons",
   "main": "app.js",
   "scripts": {
-    "test": "node app.js"
+    "start": "node app.js",
+    "dev": "nodemon app.js"
   },
   "keywords": [
     "Node.js",
